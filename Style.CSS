@@ -24,12 +24,12 @@ a{
 }
 h1{
     color: transparent;
-    background-image: url(images/font1.jpg);
+    background-image: url(font1.jpg);
     background-clip: text;
     font-size: 70px;
 }
 body{
-   background-image: url(images/bg.jpg);
+   background-image: url(bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
