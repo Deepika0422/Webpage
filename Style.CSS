@@ -1,0 +1,64 @@
+header{
+    background: radial-gradient(circle, rgb(238,174,202),rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    text-align: center;
+    padding: 20px;
+    height: 200px;
+   
+}
+
+.nav a{
+    color: rgb(92, 35, 95);
+    padding:6px 30px;
+    border-radius: 15px;
+    margin: 0 5px;
+    font-size:18px
+}
+.nav a:hover,
+.nav a.active
+{
+background:linear-gradient(rgb(150, 220, 214),rgb(255, 196, 242));
+color:rgb(230, 26, 230);
+}
+a{
+    margin-right: 15px;
+}
+h1{
+    color: transparent;
+    background-image: url(images/font1.jpg);
+    background-clip: text;
+    font-size: 70px;
+}
+body{
+   background-image: url(images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+marquee{
+    font-size: 30px;
+    color: white;
+}
+p{
+    height:150px;
+    width: 700px;
+    text-indent: 50px;
+    font-size: 20px;
+    color:rgb(225, 142, 220);
+    text-align: justify;
+    text-decoration: solid;
+}
+li{
+    font-size: 20px;
+    color:rgb(82, 180, 183);
+}
+.three{
+    height: 200px;
+}
+footer{
+    background: radial-gradient(circle, rgb(238,174,202),rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    height:110px;
+    text-align: center;
+    padding:20px;
+}
